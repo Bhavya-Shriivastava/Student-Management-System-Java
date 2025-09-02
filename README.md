@@ -1,3 +1,13 @@
+# Student Management System (Java)
+
+[![Java](https://img.shields.io/badge/Java-17-orange)](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Bhavya-Shriivastava/Student-Management-System-Java)](https://github.com/Bhavya-Shriivastava/Student-Management-System-Java/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Bhavya-Shriivastava/Student-Management-System-Java)](https://github.com/Bhavya-Shriivastava/Student-Management-System-Java/network)
+[![GitHub stars](https://img.shields.io/github/stars/Bhavya-Shriivastava/Student-Management-System-Java)](https://github.com/Bhavya-Shriivastava/Student-Management-System-Java/stargazers)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Bhavya-Shriivastava/Student-Management-System-Java)](https://github.com/Bhavya-Shriivastava/Student-Management-System-Java)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/Bhavya-Shriivastava/Student-Management-System-Java/pulls)
+
 # 🎓 Student Information and Performance Management System
 
 A **console-based Student Management System** built using **Core Java**.  
