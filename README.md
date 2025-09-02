@@ -45,13 +45,13 @@ StudentManagementSystem/
 
 ## 📸 Sample Output
 ===== Student Management System =====
-Add Student
-Update Student
-Delete Student
-Search Student by ID
-Search Student by Name
-Display All Students
-Save & Exit
+1. Add Student
+2. Update Student
+3. Delete Student
+4. Search Student by ID
+5. Search Student by Name
+6. Display All Students
+7. Save & Exit
 Enter choice:
 
 ---
