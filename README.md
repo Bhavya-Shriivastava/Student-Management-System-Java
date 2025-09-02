@@ -81,6 +81,6 @@ Enter choice:
 ## 📝 Author
 
 **👤 Bhavya Shrivastava**
-📌 B.Tech CSE @ KIIT University
-🔗 [GitHub](https://github.com/Bhavya-Shriivastava) | [LinkedIn](https://www.linkedin.com/in/bhavya-shrivastava0107/)
+**📌 B.Tech CSE @ KIIT University**
+**🔗 [GitHub](https://github.com/Bhavya-Shriivastava) | [LinkedIn](https://www.linkedin.com/in/bhavya-shrivastava0107/)**
 
