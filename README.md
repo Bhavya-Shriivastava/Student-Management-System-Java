@@ -77,6 +77,13 @@ Enter choice:
   javac *.java
 3. Run the program:
   java Main
+---
+
+## 🛡 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
 
 ## 📝 Author
 
