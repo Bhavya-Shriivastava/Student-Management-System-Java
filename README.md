@@ -77,7 +77,8 @@ Enter choice:
   javac *.java
 3. Run the program:
   java Main
-📝 Author
+
+**📝 Author**
 
 **👤 Bhavya Shrivastava
 📌 B.Tech CSE @ KIIT University
