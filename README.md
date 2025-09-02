@@ -31,15 +31,17 @@ This project demonstrates **OOP, Interfaces, Exception Handling, Multithreading,
 ---
 
 ## 📂 Project Structure
-StudentManagementSystem/
-├── Student.java
-├── StudentOperations.java
-├── StudentNotFoundException.java
-├── InvalidDataException.java
-├── StudentManagementSystemImpl.java
-├── AutoSaveTask.java
-├── Main.java
-└── students.txt
+| File Name                    | Description                          |
+|-------------------------------|--------------------------------------|
+| `Student.java`               | Defines the Student class            |
+| `StudentOperations.java`     | Interface for CRUD operations        |
+| `StudentNotFoundException.java` | Custom exception for missing student |
+| `InvalidDataException.java`  | Custom exception for invalid data     |
+| `StudentManagementSystemImpl.java` | Main implementation of system   |
+| `AutoSaveTask.java`          | Background autosave thread           |
+| `Main.java`                  | Entry point of the program           |
+| `students.txt`               | Data persistence file                |
+
 
 ---
 
