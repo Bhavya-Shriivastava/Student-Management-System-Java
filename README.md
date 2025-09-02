@@ -78,9 +78,9 @@ Enter choice:
 3. Run the program:
   java Main
 
-**📝 Author**
+## 📝 Author
 
-**👤 Bhavya Shrivastava
+**👤 Bhavya Shrivastava**
 📌 B.Tech CSE @ KIIT University
 🔗 [GitHub](https://github.com/Bhavya-Shriivastava) | [LinkedIn](https://www.linkedin.com/in/bhavya-shrivastava0107/)
 
