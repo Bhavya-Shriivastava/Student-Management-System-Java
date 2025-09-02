@@ -82,5 +82,5 @@ Enter choice:
 
 **👤 Bhavya Shrivastava
 📌 B.Tech CSE @ KIIT University
-🔗 GitHub
- | LinkedIn**
+🔗 [GitHub](https://github.com/Bhavya-Shriivastava) | [LinkedIn](https://www.linkedin.com/in/bhavya-shrivastava0107/)
+
